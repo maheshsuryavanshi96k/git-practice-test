@@ -42,9 +42,6 @@ Updated the README file with student and assignment details. Committed and pushe
 
 Created a new branch named **feature-A**, added an **index.html** file with sample HTML content, committed and pushed the changes.
 
-### Screenshot
-
-![Task 4](Screenshots/task-4.png)
 
 ---
 
@@ -127,7 +124,9 @@ project/
 
 ![Task 11](Screenshots/task-11.1.png)
 
+
 ![Task 11](Screenshots/task-11.2.png)
+
 
 ![Task 11](Screenshots/task-11.png)
 
@@ -169,9 +168,6 @@ Configured branch protection rules on the **main** branch to prevent direct push
 * ✅ Repository mirroring working
 * ✅ Branch protection enabled
 
-### Screenshot
-
-![Task 14](Screenshots/task-14.png)
 
 ---
 
@@ -179,11 +175,11 @@ Configured branch protection rules on the **main** branch to prevent direct push
 
 ### GitHub Repository
 
-https://github.com/your-username/git-practice-task
+https://github.com/maheshsuryavanshi96k/git-practice-task
 
 ### GitLab Repository
 
-https://gitlab.com/your-username/project
+https://gitlab.com/maheshsuryavanshi96k/gitlab-practice-task1
 
 ---
 
