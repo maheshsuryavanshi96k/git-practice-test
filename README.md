@@ -144,7 +144,8 @@ Configured repository mirroring between GitLab and GitHub. Verified that changes
 
 ![Task 12](Screenshots/task-12.1.png)
 
-[Task 12](Screenshots/task-12.png)
+
+![Task 12](Screenshots/task-12.png)
 
 ---
 
