@@ -42,6 +42,10 @@ Updated the README file with student and assignment details. Committed and pushe
 
 Created a new branch named **feature-A**, added an **index.html** file with sample HTML content, committed and pushed the changes.
 
+### Screenshot
+
+![Task 4](Screenshots/task-4.png)
+
 
 ---
 
